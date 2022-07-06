@@ -5,6 +5,7 @@
 
 A chat room application made using React, Node, Express and Socket.io. Users can join rooms and chat with other users.
 
+![chatapp](https://user-images.githubusercontent.com/108786345/177487776-e69b3e2d-b77e-4648-959f-fe933ad64b94.PNG)
 
 
 <!-- GETTING STARTED -->
