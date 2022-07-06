@@ -26,11 +26,11 @@ A chat room application made using React, Node, Express and Socket.io. Users can
    ```sh
    npm install
    ```
-4. Start app using and ppen http://localhost:3000 to view it in the browser.
+4. Start app using and open http://localhost:3000 to view it in the browser.
    ```sh
    npm start
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
