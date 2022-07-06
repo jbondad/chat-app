@@ -3,8 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Chat App
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A chat room application made using React, Node, Express and Socket.io. Users can join rooms and chat with other users.
 
 
